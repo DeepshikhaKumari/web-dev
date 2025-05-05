@@ -1,1 +1,1 @@
-public class HelloWorld { public static void main(String[] args) { System.out.println("Test JavaScript - Version 2");}}
+public class HelloWorld {public static void main(String[] args) {System.out.println("Test Java Script - Version 2"); }}
